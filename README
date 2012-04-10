@@ -1,2 +1,2 @@
-$ repo init -u https://github.com/JieeHD/platform_manifest.git-1 -b ics
+$ repo init -u https://github.com/JieeHD/platform_manifest-1.git -b ics
 $ repo sync

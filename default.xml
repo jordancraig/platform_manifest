@@ -8,9 +8,11 @@
            fetch="https://github.com/"
            review="gerrit.aokp.co"
            revision="ics" />
+           
   <remote  name="jhd"
-           fetch="https://github.com"
+           fetch="https://github.com/"
            revision="ics" />
+           
   <remote  name="cm"
            fetch="https://github.com/CyanogenMod/"
            revision="ics" />
